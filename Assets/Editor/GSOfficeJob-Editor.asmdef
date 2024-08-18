@@ -1,0 +1,10 @@
+{
+  "name": "GSOfficeJob-Editor",
+  "references": [
+    "GSOfficeJob"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
